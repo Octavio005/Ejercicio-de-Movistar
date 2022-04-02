@@ -1,0 +1,15 @@
+{
+    "campoBusqueda" : "#search",
+    "botonBusqueda" : ".action.search",
+    "texto12Cuotas" : "#installments-text",
+    "celularA52" : "#product-item-info_6115 button",
+    "selectFiltros" : ".block-title.filter-title [data-role = 'title']",
+    "preciosFiltro" : "[attribute = price] [href = 'https://tienda.movistar.com.ar/?price=100000-200000']",
+    "almacenamientoFiltro" : "[attribute = 'movistar_internalmemory'] [href = 'https://tienda.movistar.com.ar/?movistar_internalmemory=916&price=100000-200000']",
+    "elementosVisibles" : ".action.tocart.primary",
+    "opcionesFinanciacion" : "#open-installments-modal",
+    "bancoEmisor" : "#selectBank",
+    "tarjeta" : "#selectCardByBank",
+    "elementosCuotas" : ".bold-tr td",
+    "contenidoCaja" : "#tab-label-box-content"
+}
